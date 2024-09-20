@@ -1,0 +1,22 @@
+<?php
+
+namespace {{ namespace }};
+
+use EightyNine\FilamentAdvancedWidget\AdvancedChartWidget;
+
+class {{ class }} extends AdvancedChartWidget
+{
+    protected static ?string $heading = 'Chart';
+
+    protected function getData(): array
+    {
+        return [
+            //
+        ];
+    }
+
+    protected function getType(): string
+    {
+        return '{{ type }}';
+    }
+}

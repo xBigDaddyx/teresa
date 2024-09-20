@@ -1,0 +1,59 @@
+@import '/vendor/filament/filament/resources/css/theme.css';
+
+@config 'tailwind.config.js';
+
+
+.fi-sidebar {
+    @apply !important;
+}.fi-sidebar-nav {
+    @apply bg-white dark:bg-gray-800 mr-4 shadow-md
+}
+.fi-header-heading{
+    @apply bg-gradient-to-r from-primary-400 to-primary-300 dark:from-primary-800 dark:to-primary-950 text-transparent bg-clip-text;
+}
+.fi-sidebar-header {
+    @apply dark:bg-gray-800 bg-white ring-0 shadow-none mr-4 shadow-md !important;
+}
+.fi-sidebar-item-active a {
+    @apply bg-primary-600 hover:bg-secondary-500 dark:bg-secondary-500  dark:hover:bg-primary-950/70 text-white dark:text-white transition ;
+}
+.fi-sidebar-item-active .fi-sidebar-item-label {
+    @apply text-white dark:text-white;
+}
+.fi-sidebar-item-active svg {
+    @apply text-white dark:text-white;
+}
+.fi-sidebar-item:not(.fi-sidebar-item-active) a {
+    @apply dark:text-gray-400 hover:bg-primary-100 dark:hover:bg-secondary-800/50 dark:hover:text-white;
+}
+.fi-sidebar-item:not(.fi-sidebar-item-active):hover a svg {
+    @apply dark:text-white;
+}
+.fi-layout {
+    @apply  bg-gradient-to-l from-primary-200 to-primary-100 dark:from-primary-950 dark:to-primary-950 !important
+}
+.fi-topbar nav {
+    @apply dark:bg-gray-800 bg-white my-4 ring-0 shadow-md mx-2 rounded-xl max-w-full mx-auto !important
+}
+.fi-ta-header-cell, .th {
+    @apply bg-primary-50 dark:bg-gray-800
+}
+.fi-main {
+    @apply bg-white dark:bg-gray-800 shadow-md w-11/12 mx-auto mr-8 rounded-xl mx-auto ;
+}
+
+.fi-tenant-menu {
+    @apply rounded-lg p-4;
+}
+::-webkit-scrollbar {
+    width: 10px;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background-color: #FAA023;
+    border-radius: 25px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background-color: #CBDBDB;
+  }

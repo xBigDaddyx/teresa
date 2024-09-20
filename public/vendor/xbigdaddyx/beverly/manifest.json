@@ -1,0 +1,13 @@
+{
+  "resources/css/beverly.css": {
+    "file": "assets/beverly-DwWGRQq5.css",
+    "src": "resources/css/beverly.css",
+    "isEntry": true
+  },
+  "resources/js/beverly.js": {
+    "file": "assets/beverly-l0sNRNKZ.js",
+    "name": "beverly",
+    "src": "resources/js/beverly.js",
+    "isEntry": true
+  }
+}

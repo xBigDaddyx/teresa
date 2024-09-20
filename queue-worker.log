@@ -1,0 +1,1408 @@
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+   Illuminate\Contracts\Container\BindingResolutionException 
+
+  Target class [Vcian\Pulse\PulseActiveSessions\Recorders\PulseActiveSessionRecorder] does not exist.
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Container/Container.php:940
+    936▕ 
+    937▕         try {
+    938▕             $reflector = new ReflectionClass($concrete);
+    939▕         } catch (ReflectionException $e) {
+  ➜ 940▕             throw new BindingResolutionException("Target class [$concrete] does not exist.", 0, $e);
+    941▕         }
+    942▕ 
+    943▕         // If the type is not instantiable, the developer is attempting to resolve
+    944▕         // an abstract type such as an Interface or Abstract Class and there is
+
+  1   [internal]:0
+      Laravel\Pulse\Pulse::Laravel\Pulse\{closure}()
+
+  2   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
