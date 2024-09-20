@@ -104,6 +104,13 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "repositories": {
+        "xbigdaddyx/falcon": {
+            "type": "path",
+            "url": "/home/xbigdaddyx/projects/teresa/packages/xbigdaddyx/falcon",
+            "options": {
+                "symlink": true
+            }
+        },
         "xbigdaddyx/beverly": {
             "type": "path",
             "url": "/home/xbigdaddyx/projects/teresa/packages/xbigdaddyx/beverly",
