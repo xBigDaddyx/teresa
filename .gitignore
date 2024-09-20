@@ -18,4 +18,6 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
-/packages
+node_modules
+vendor
+packages
