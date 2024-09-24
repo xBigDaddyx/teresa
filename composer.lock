@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7e900adb65139a7b9557498fa21cc311",
+    "content-hash": "cc94d6b7f0ec56ec182b58c1d07d9af4",
     "packages": [
         {
             "name": "alperenersoy/filament-export",
@@ -746,16 +746,16 @@
         },
         {
             "name": "charrafimed/global-search-modal",
-            "version": "v3.0.10",
+            "version": "v3.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CharrafiMed/global-search-modal.git",
-                "reference": "6d1b8312a69a23bab802d9130822a31f7d1a1035"
+                "reference": "c9ac318b75bf34c8422f20fe695cec7fdac41d38"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CharrafiMed/global-search-modal/zipball/6d1b8312a69a23bab802d9130822a31f7d1a1035",
-                "reference": "6d1b8312a69a23bab802d9130822a31f7d1a1035",
+                "url": "https://api.github.com/repos/CharrafiMed/global-search-modal/zipball/c9ac318b75bf34c8422f20fe695cec7fdac41d38",
+                "reference": "c9ac318b75bf34c8422f20fe695cec7fdac41d38",
                 "shasum": ""
             },
             "require": {
@@ -787,9 +787,9 @@
             "description": "advanced global search modal",
             "support": {
                 "issues": "https://github.com/CharrafiMed/global-search-modal/issues",
-                "source": "https://github.com/CharrafiMed/global-search-modal/tree/v3.0.10"
+                "source": "https://github.com/CharrafiMed/global-search-modal/tree/v3.1.0"
             },
-            "time": "2024-09-18T16:01:10+00:00"
+            "time": "2024-09-19T12:45:48+00:00"
         },
         {
             "name": "chrisreedio/socialment",
@@ -3412,16 +3412,16 @@
         },
         {
             "name": "jaybizzle/crawler-detect",
-            "version": "v1.2.119",
+            "version": "v1.2.120",
             "source": {
                 "type": "git",
                 "url": "https://github.com/JayBizzle/Crawler-Detect.git",
-                "reference": "275002e22b0333c15a7c6792fdae5d5deefc9ef0"
+                "reference": "2b325bdce46bbb8a2e96dc740ad37c743c9d8617"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/JayBizzle/Crawler-Detect/zipball/275002e22b0333c15a7c6792fdae5d5deefc9ef0",
-                "reference": "275002e22b0333c15a7c6792fdae5d5deefc9ef0",
+                "url": "https://api.github.com/repos/JayBizzle/Crawler-Detect/zipball/2b325bdce46bbb8a2e96dc740ad37c743c9d8617",
+                "reference": "2b325bdce46bbb8a2e96dc740ad37c743c9d8617",
                 "shasum": ""
             },
             "require": {
@@ -3458,9 +3458,9 @@
             ],
             "support": {
                 "issues": "https://github.com/JayBizzle/Crawler-Detect/issues",
-                "source": "https://github.com/JayBizzle/Crawler-Detect/tree/v1.2.119"
+                "source": "https://github.com/JayBizzle/Crawler-Detect/tree/v1.2.120"
             },
-            "time": "2024-06-07T07:58:43+00:00"
+            "time": "2024-09-15T14:31:21+00:00"
         },
         {
             "name": "jenssegers/agent",
@@ -3547,16 +3547,16 @@
         },
         {
             "name": "joaopaulolndev/filament-edit-profile",
-            "version": "v1.0.29",
+            "version": "v1.0.30",
             "source": {
                 "type": "git",
                 "url": "https://github.com/joaopaulolndev/filament-edit-profile.git",
-                "reference": "c07fbbaa7146532cdeb08b1045be6d54137b8b2d"
+                "reference": "5c72ba9d24cfd43d29d88010d9d48c5503093cae"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/joaopaulolndev/filament-edit-profile/zipball/c07fbbaa7146532cdeb08b1045be6d54137b8b2d",
-                "reference": "c07fbbaa7146532cdeb08b1045be6d54137b8b2d",
+                "url": "https://api.github.com/repos/joaopaulolndev/filament-edit-profile/zipball/5c72ba9d24cfd43d29d88010d9d48c5503093cae",
+                "reference": "5c72ba9d24cfd43d29d88010d9d48c5503093cae",
                 "shasum": ""
             },
             "require": {
@@ -3619,7 +3619,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-09-16T10:22:56+00:00"
+            "time": "2024-09-19T11:30:58+00:00"
         },
         {
             "name": "kirschbaum-development/eloquent-power-joins",
@@ -11168,11 +11168,11 @@
         },
         {
             "name": "xbigdaddyx/beverly",
-            "version": "dev-main",
+            "version": "dev-master",
             "dist": {
                 "type": "path",
                 "url": "/home/xbigdaddyx/projects/teresa/packages/xbigdaddyx/beverly",
-                "reference": "b684672058d900668ffa98ba029dd90ef71a871a"
+                "reference": "70a142f9e95edfb50890822b95ee34e3f126190e"
             },
             "require": {
                 "alperenersoy/filament-export": "^3.0",
@@ -11191,6 +11191,9 @@
                 "spatie/laravel-package-tools": "^1.15.0",
                 "wildside/userstamps": "*",
                 "wireui/wireui": "*",
+                "xbigdaddyx/beverly-mix": "dev-main",
+                "xbigdaddyx/beverly-ratio": "dev-main",
+                "xbigdaddyx/beverly-solid": "dev-main",
                 "xbigdaddyx/fuse": "dev-master"
             },
             "require-dev": {
@@ -11256,7 +11259,7 @@
                     "role": "Developer"
                 }
             ],
-            "description": "This is my package beverly",
+            "description": "This is accuracy system module for teresa.",
             "homepage": "https://github.com/xbigdaddyx/beverly",
             "keywords": [
                 "beverly",
@@ -11273,12 +11276,383 @@
             }
         },
         {
+            "name": "xbigdaddyx/beverly-mix",
+            "version": "dev-main",
+            "dist": {
+                "type": "path",
+                "url": "/home/xbigdaddyx/projects/teresa/packages/xbigdaddyx/beverly-mix",
+                "reference": "676e62cdb6698e4b7be6251753012149fcf12908"
+            },
+            "require": {
+                "filament/filament": "^3.0",
+                "php": "^8.1",
+                "spatie/laravel-package-tools": "^1.15.0",
+                "wildside/userstamps": "^2.4"
+            },
+            "require-dev": {
+                "laravel/pint": "^1.0",
+                "nunomaduro/collision": "^7.9",
+                "nunomaduro/larastan": "^2.0.1",
+                "orchestra/testbench": "^8.0",
+                "pestphp/pest": "^2.1",
+                "pestphp/pest-plugin-arch": "^2.0",
+                "pestphp/pest-plugin-laravel": "^2.0",
+                "phpstan/extension-installer": "^1.1",
+                "phpstan/phpstan-deprecation-rules": "^1.0",
+                "phpstan/phpstan-phpunit": "^1.0",
+                "spatie/laravel-ray": "^1.26"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "Xbigdaddyx\\BeverlyMix\\BeverlyMixServiceProvider"
+                    ],
+                    "aliases": {
+                        "BeverlyMix": "Xbigdaddyx\\BeverlyMix\\Facades\\BeverlyMix"
+                    }
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Xbigdaddyx\\BeverlyMix\\": "src/",
+                    "Xbigdaddyx\\BeverlyMix\\Database\\Factories\\": "database/factories/"
+                }
+            },
+            "autoload-dev": {
+                "psr-4": {
+                    "Xbigdaddyx\\BeverlyMix\\Tests\\": "tests/"
+                }
+            },
+            "scripts": {
+                "post-autoload-dump": [
+                    "@php ./vendor/bin/testbench package:discover --ansi"
+                ],
+                "analyse": [
+                    "vendor/bin/phpstan analyse"
+                ],
+                "test": [
+                    "vendor/bin/pest"
+                ],
+                "test-coverage": [
+                    "vendor/bin/pest --coverage"
+                ],
+                "format": [
+                    "vendor/bin/pint"
+                ]
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "xbigdaddyx",
+                    "email": "yussupcazzanova97@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "This is Mix principle package for beverly",
+            "homepage": "https://github.com/xbigdaddyx/beverly-mix",
+            "keywords": [
+                "beverly-mix",
+                "laravel",
+                "xbigdaddyx"
+            ],
+            "support": {
+                "issues": "https://github.com/xbigdaddyx/beverly-mix/issues",
+                "source": "https://github.com/xbigdaddyx/beverly-mix"
+            },
+            "transport-options": {
+                "symlink": true,
+                "relative": false
+            }
+        },
+        {
+            "name": "xbigdaddyx/beverly-ratio",
+            "version": "dev-main",
+            "dist": {
+                "type": "path",
+                "url": "/home/xbigdaddyx/projects/teresa/packages/xbigdaddyx/beverly-ratio",
+                "reference": "565062ddb0776396ef18f37daf5fe1b0c1481a15"
+            },
+            "require": {
+                "filament/filament": "^3.0",
+                "php": "^8.1",
+                "spatie/laravel-package-tools": "^1.15.0",
+                "wildside/userstamps": "^2.4"
+            },
+            "require-dev": {
+                "laravel/pint": "^1.0",
+                "nunomaduro/collision": "^7.9",
+                "nunomaduro/larastan": "^2.0.1",
+                "orchestra/testbench": "^8.0",
+                "pestphp/pest": "^2.1",
+                "pestphp/pest-plugin-arch": "^2.0",
+                "pestphp/pest-plugin-laravel": "^2.0",
+                "phpstan/extension-installer": "^1.1",
+                "phpstan/phpstan-deprecation-rules": "^1.0",
+                "phpstan/phpstan-phpunit": "^1.0",
+                "spatie/laravel-ray": "^1.26"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "Xbigdaddyx\\BeverlyRatio\\BeverlyRatioServiceProvider"
+                    ],
+                    "aliases": {
+                        "BeverlyRatio": "Xbigdaddyx\\BeverlyRatio\\Facades\\BeverlyRatio"
+                    }
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Xbigdaddyx\\BeverlyRatio\\": "src/",
+                    "Xbigdaddyx\\BeverlyRatio\\Database\\Factories\\": "database/factories/"
+                }
+            },
+            "autoload-dev": {
+                "psr-4": {
+                    "Xbigdaddyx\\BeverlyRatio\\Tests\\": "tests/"
+                }
+            },
+            "scripts": {
+                "post-autoload-dump": [
+                    "@php ./vendor/bin/testbench package:discover --ansi"
+                ],
+                "analyse": [
+                    "vendor/bin/phpstan analyse"
+                ],
+                "test": [
+                    "vendor/bin/pest"
+                ],
+                "test-coverage": [
+                    "vendor/bin/pest --coverage"
+                ],
+                "format": [
+                    "vendor/bin/pint"
+                ]
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "xbigdaddyx",
+                    "email": "yussupcazzanova97@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "This is ratio principle package for beverly",
+            "homepage": "https://github.com/xbigdaddyx/beverly-ratio",
+            "keywords": [
+                "beverly-ratio",
+                "laravel",
+                "xbigdaddyx"
+            ],
+            "support": {
+                "issues": "https://github.com/xbigdaddyx/beverly-ratio/issues",
+                "source": "https://github.com/xbigdaddyx/beverly-ratio"
+            },
+            "transport-options": {
+                "symlink": true,
+                "relative": false
+            }
+        },
+        {
+            "name": "xbigdaddyx/beverly-solid",
+            "version": "dev-main",
+            "dist": {
+                "type": "path",
+                "url": "/home/xbigdaddyx/projects/teresa/packages/xbigdaddyx/beverly-solid",
+                "reference": "d46c508516d5f05e125f7ae7bd1f604637aaa9f2"
+            },
+            "require": {
+                "alperenersoy/filament-export": "^3.0",
+                "filament/filament": "^3.0",
+                "filament/tables": "^3.2",
+                "php": "^8.1",
+                "ryangjchandler/blade-tabler-icons": "^2.3",
+                "spatie/laravel-package-tools": "^1.15.0",
+                "wildside/userstamps": "^2.4"
+            },
+            "require-dev": {
+                "laravel/pint": "^1.0",
+                "nunomaduro/collision": "^7.9",
+                "nunomaduro/larastan": "^2.0.1",
+                "orchestra/testbench": "^8.0",
+                "pestphp/pest": "^2.1",
+                "pestphp/pest-plugin-arch": "^2.0",
+                "pestphp/pest-plugin-laravel": "^2.0",
+                "phpstan/extension-installer": "^1.1",
+                "phpstan/phpstan-deprecation-rules": "^1.0",
+                "phpstan/phpstan-phpunit": "^1.0",
+                "spatie/laravel-ray": "^1.26"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "Xbigdaddyx\\BeverlySolid\\BeverlySolidServiceProvider"
+                    ],
+                    "aliases": {
+                        "BeverlySolid": "Xbigdaddyx\\BeverlySolid\\Facades\\BeverlySolid"
+                    }
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Xbigdaddyx\\BeverlySolid\\": "src/",
+                    "Xbigdaddyx\\BeverlySolid\\Database\\Factories\\": "database/factories/"
+                }
+            },
+            "autoload-dev": {
+                "psr-4": {
+                    "Xbigdaddyx\\BeverlySolid\\Tests\\": "tests/"
+                }
+            },
+            "scripts": {
+                "post-autoload-dump": [
+                    "@php ./vendor/bin/testbench package:discover --ansi"
+                ],
+                "analyse": [
+                    "vendor/bin/phpstan analyse"
+                ],
+                "test": [
+                    "vendor/bin/pest"
+                ],
+                "test-coverage": [
+                    "vendor/bin/pest --coverage"
+                ],
+                "format": [
+                    "vendor/bin/pint"
+                ]
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "xbigdaddyx",
+                    "email": "yussupcazzanova97@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "This is Solid principle package for beverly",
+            "homepage": "https://github.com/xbigdaddyx/beverly-solid",
+            "keywords": [
+                "beverly-solid",
+                "laravel",
+                "xbigdaddyx"
+            ],
+            "support": {
+                "issues": "https://github.com/xbigdaddyx/beverly-solid/issues",
+                "source": "https://github.com/xbigdaddyx/beverly-solid"
+            },
+            "transport-options": {
+                "symlink": true,
+                "relative": false
+            }
+        },
+        {
+            "name": "xbigdaddyx/falcon",
+            "version": "dev-master",
+            "dist": {
+                "type": "path",
+                "url": "/home/xbigdaddyx/projects/teresa/packages/xbigdaddyx/falcon",
+                "reference": "1eb51c221c13629aaffd0fe5683a360dacac8dc5"
+            },
+            "require": {
+                "filament/filament": "^3.0",
+                "php": "^8.1",
+                "spatie/laravel-package-tools": "^1.15.0"
+            },
+            "require-dev": {
+                "laravel/pint": "^1.0",
+                "nunomaduro/collision": "^7.9",
+                "nunomaduro/larastan": "^2.0.1",
+                "orchestra/testbench": "^8.0",
+                "pestphp/pest": "^2.1",
+                "pestphp/pest-plugin-arch": "^2.0",
+                "pestphp/pest-plugin-laravel": "^2.0",
+                "phpstan/extension-installer": "^1.1",
+                "phpstan/phpstan-deprecation-rules": "^1.0",
+                "phpstan/phpstan-phpunit": "^1.0",
+                "spatie/laravel-ray": "^1.26"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "Xbigdaddyx\\Falcon\\FalconPanelServiceProvider",
+                        "Xbigdaddyx\\Falcon\\FalconServiceProvider"
+                    ],
+                    "aliases": {
+                        "Falcon": "Xbigdaddyx\\Falcon\\Facades\\Falcon"
+                    }
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Xbigdaddyx\\Falcon\\": "src/",
+                    "Xbigdaddyx\\Falcon\\Database\\Factories\\": "database/factories/"
+                }
+            },
+            "autoload-dev": {
+                "psr-4": {
+                    "Xbigdaddyx\\Falcon\\Tests\\": "tests/"
+                }
+            },
+            "scripts": {
+                "post-autoload-dump": [
+                    "@php ./vendor/bin/testbench package:discover --ansi"
+                ],
+                "analyse": [
+                    "vendor/bin/phpstan analyse"
+                ],
+                "test": [
+                    "vendor/bin/pest"
+                ],
+                "test-coverage": [
+                    "vendor/bin/pest --coverage"
+                ],
+                "format": [
+                    "vendor/bin/pint"
+                ]
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "xbigdaddyx",
+                    "email": "yussupcazzanova97@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "This is IT asset management module for Teresa.",
+            "homepage": "https://github.com/xbigdaddyx/falcon",
+            "keywords": [
+                "falcon",
+                "laravel",
+                "xBigDaddyx"
+            ],
+            "support": {
+                "issues": "https://github.com/xbigdaddyx/falcon/issues",
+                "source": "https://github.com/xbigdaddyx/falcon"
+            },
+            "transport-options": {
+                "symlink": true,
+                "relative": false
+            }
+        },
+        {
             "name": "xbigdaddyx/fuse",
             "version": "dev-master",
             "dist": {
                 "type": "path",
                 "url": "/home/xbigdaddyx/projects/teresa/packages/xbigdaddyx/fuse",
-                "reference": "beacddb9c551b79bb4e73e8aad8e7fb9df66a9e8"
+                "reference": "fe2929db675ec60fa24fefa4e99e348e59343035"
             },
             "require": {
                 "charrafimed/global-search-modal": "^3.0",
@@ -12512,16 +12886,16 @@
         },
         {
             "name": "pestphp/pest",
-            "version": "v3.0.6",
+            "version": "v3.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pestphp/pest.git",
-                "reference": "0d50d35b5eab4164b1e777e63f689be5cd8c40e5"
+                "reference": "5de0c2254ad8ef3271e0b9fa363772e43d6559b1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pestphp/pest/zipball/0d50d35b5eab4164b1e777e63f689be5cd8c40e5",
-                "reference": "0d50d35b5eab4164b1e777e63f689be5cd8c40e5",
+                "url": "https://api.github.com/repos/pestphp/pest/zipball/5de0c2254ad8ef3271e0b9fa363772e43d6559b1",
+                "reference": "5de0c2254ad8ef3271e0b9fa363772e43d6559b1",
                 "shasum": ""
             },
             "require": {
@@ -12530,12 +12904,12 @@
                 "nunomaduro/termwind": "^2.1.0",
                 "pestphp/pest-plugin": "^3.0.0",
                 "pestphp/pest-plugin-arch": "^3.0.0",
-                "pestphp/pest-plugin-mutate": "^3.0.3",
+                "pestphp/pest-plugin-mutate": "^3.0.4",
                 "php": "^8.2.0",
-                "phpunit/phpunit": "^11.3.4"
+                "phpunit/phpunit": "^11.3.6"
             },
             "conflict": {
-                "phpunit/phpunit": ">11.3.4",
+                "phpunit/phpunit": ">11.3.6",
                 "sebastian/exporter": "<6.0.0",
                 "webmozart/assert": "<1.11.0"
             },
@@ -12607,7 +12981,7 @@
             ],
             "support": {
                 "issues": "https://github.com/pestphp/pest/issues",
-                "source": "https://github.com/pestphp/pest/tree/v3.0.6"
+                "source": "https://github.com/pestphp/pest/tree/v3.1.0"
             },
             "funding": [
                 {
@@ -12619,7 +12993,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-09-11T17:59:43+00:00"
+            "time": "2024-09-19T22:39:07+00:00"
         },
         {
             "name": "pestphp/pest-plugin",
@@ -12837,26 +13211,26 @@
         },
         {
             "name": "pestphp/pest-plugin-mutate",
-            "version": "v3.0.3",
+            "version": "v3.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pestphp/pest-plugin-mutate.git",
-                "reference": "d83a5e106c92ea0ebf928eefbe4a57f028adf468"
+                "reference": "33782fe8a373077b86b0c92b885896d8eacc138d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pestphp/pest-plugin-mutate/zipball/d83a5e106c92ea0ebf928eefbe4a57f028adf468",
-                "reference": "d83a5e106c92ea0ebf928eefbe4a57f028adf468",
+                "url": "https://api.github.com/repos/pestphp/pest-plugin-mutate/zipball/33782fe8a373077b86b0c92b885896d8eacc138d",
+                "reference": "33782fe8a373077b86b0c92b885896d8eacc138d",
                 "shasum": ""
             },
             "require": {
-                "nikic/php-parser": "^5.1.0",
+                "nikic/php-parser": "^5.2.0",
                 "pestphp/pest-plugin": "^3.0.0",
                 "php": "^8.2",
                 "psr/simple-cache": "^3.0.0"
             },
             "require-dev": {
-                "pestphp/pest": "^3.0.1",
+                "pestphp/pest": "^3.0.8",
                 "pestphp/pest-dev-tools": "^3.0.0",
                 "pestphp/pest-plugin-type-coverage": "^3.0.0"
             },
@@ -12889,7 +13263,7 @@
                 "unit"
             ],
             "support": {
-                "source": "https://github.com/pestphp/pest-plugin-mutate/tree/v3.0.3"
+                "source": "https://github.com/pestphp/pest-plugin-mutate/tree/v3.0.4"
             },
             "funding": [
                 {
@@ -12905,7 +13279,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-09-10T15:59:08+00:00"
+            "time": "2024-09-19T21:50:52+00:00"
         },
         {
             "name": "phar-io/manifest",
@@ -13572,16 +13946,16 @@
         },
         {
             "name": "phpunit/phpunit",
-            "version": "11.3.4",
+            "version": "11.3.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/phpunit.git",
-                "reference": "d2ef57db1410b102b250e0cdce6675a60c2a993d"
+                "reference": "d62c45a19c665bb872c2a47023a0baf41a98bb2b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/d2ef57db1410b102b250e0cdce6675a60c2a993d",
-                "reference": "d2ef57db1410b102b250e0cdce6675a60c2a993d",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/d62c45a19c665bb872c2a47023a0baf41a98bb2b",
+                "reference": "d62c45a19c665bb872c2a47023a0baf41a98bb2b",
                 "shasum": ""
             },
             "require": {
@@ -13602,13 +13976,13 @@
                 "phpunit/php-timer": "^7.0.1",
                 "sebastian/cli-parser": "^3.0.2",
                 "sebastian/code-unit": "^3.0.1",
-                "sebastian/comparator": "^6.0.2",
+                "sebastian/comparator": "^6.1.0",
                 "sebastian/diff": "^6.0.2",
                 "sebastian/environment": "^7.2.0",
                 "sebastian/exporter": "^6.1.3",
                 "sebastian/global-state": "^7.0.2",
                 "sebastian/object-enumerator": "^6.0.1",
-                "sebastian/type": "^5.0.1",
+                "sebastian/type": "^5.1.0",
                 "sebastian/version": "^5.0.1"
             },
             "suggest": {
@@ -13652,7 +14026,7 @@
             "support": {
                 "issues": "https://github.com/sebastianbergmann/phpunit/issues",
                 "security": "https://github.com/sebastianbergmann/phpunit/security/policy",
-                "source": "https://github.com/sebastianbergmann/phpunit/tree/11.3.4"
+                "source": "https://github.com/sebastianbergmann/phpunit/tree/11.3.6"
             },
             "funding": [
                 {
@@ -13668,7 +14042,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-09-09T06:08:34+00:00"
+            "time": "2024-09-19T10:54:28+00:00"
         },
         {
             "name": "sebastian/cli-parser",
@@ -14777,7 +15151,6 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
-        "xbigdaddyx/beverly": 20,
         "xbigdaddyx/fuse": 20
     },
     "prefer-stable": true,

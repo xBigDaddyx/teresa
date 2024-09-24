@@ -38,7 +38,8 @@
         "stechstudio/filament-impersonate": "^3.14",
         "wildside/userstamps": "^2.4",
         "wireui/wireui": "^2.1",
-        "xbigdaddyx/beverly": "dev-main",
+        "xbigdaddyx/beverly": "*",
+        "xbigdaddyx/falcon": "*",
         "xbigdaddyx/fuse": "dev-master"
     },
     "require-dev": {
@@ -104,6 +105,27 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "repositories": {
+        "xbigdaddyx/beverly-mix": {
+            "type": "path",
+            "url": "/home/xbigdaddyx/projects/teresa/packages/xbigdaddyx/beverly-mix",
+            "options": {
+                "symlink": true
+            }
+        },
+        "xbigdaddyx/beverly-ratio": {
+            "type": "path",
+            "url": "/home/xbigdaddyx/projects/teresa/packages/xbigdaddyx/beverly-ratio",
+            "options": {
+                "symlink": true
+            }
+        },
+        "xbigdaddyx/beverly-solid": {
+            "type": "path",
+            "url": "/home/xbigdaddyx/projects/teresa/packages/xbigdaddyx/beverly-solid",
+            "options": {
+                "symlink": true
+            }
+        },
         "xbigdaddyx/falcon": {
             "type": "path",
             "url": "/home/xbigdaddyx/projects/teresa/packages/xbigdaddyx/falcon",
