@@ -9,8 +9,8 @@ export default {
         require("./vendor/wireui/wireui/tailwind.config.js")
     ],
     content: [
+        './vendor/awcodes/palette/resources/views/**/*.blade.php',
         './vendor/masmerise/livewire-toaster/resources/views/*.blade.php',
-        "./vendor/xbigdaddyx/beverly/resources/**/*.blade.php",
         './vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php',
         './resources/views/**/*.blade.php',
         './vendor/filament/**/*.blade.php',

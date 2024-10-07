@@ -7,7 +7,6 @@ export default defineConfig({
             input: [
                 'resources/css/app.css',
                 'resources/js/app.js',
-                './vendor/xbigdaddyx/beverly/resources/css/index.css',
             ],
             refresh: true,
         }),

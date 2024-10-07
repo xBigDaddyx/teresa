@@ -14,7 +14,7 @@
         @foreach ($providers as $providerName => $provider)
             <a class='ring-2 ring-slate-700/50 hover:ring-slate-600/70 transition-all rounded-lg px-4 py-3 flex gap-2 items-center'
                 href='{{ route('socialment.redirect.panel', ['panelId' => $panelId, 'provider' => $providerName]) }}'>
-                <x-icon name="{{ $provider['icon'] }}" class='w-8' />
+                <img src="{{ asset('vendor/blade-fontawesome/brands/' . $provider['icon'] . '.svg') }}" class="w-8" />
                 <span>{{ $provider['label'] }}</span>
             </a>
         @endforeach

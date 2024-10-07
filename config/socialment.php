@@ -12,12 +12,12 @@ return [
     'providers' => [
         // Use the key based on the provider's documentation
         'azure' => [
-        	'icon' => 'fab-microsoft', // Font Awesome icon class
-        	'label' => 'Sign in with Microsoft', // The label to display for the provider
+            'icon' => 'microsoft', // Font Awesome icon class
+            'label' => 'Sign in with Microsoft', // The label to display for the provider
         ],
         'google' => [
-        	'icon' => 'fab-google', // Font Awesome icon class
-        	'label' => 'Sign in with Google', // The label to display for the provider
+            'icon' => 'google', // Font Awesome icon class
+            'label' => 'Sign in with Google', // The label to display for the provider
         ]
     ],
 
