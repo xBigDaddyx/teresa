@@ -9,7 +9,7 @@
     "license": "MIT",
     "require": {
         "php": "^8.2",
-        "alperenersoy/filament-export": "^3.0",
+        "alperenersoy/filament-export": "*",
         "ariaieboy/filament-currency": "*",
         "awcodes/palette": "*",
         "awcodes/shout": "^2.0",
@@ -40,6 +40,8 @@
         "ryangjchandler/blade-tabler-icons": "^2.3",
         "socialiteproviders/google": "^4.1",
         "socialiteproviders/microsoft-azure": "^5.2",
+        "spatie/browsershot": "*",
+        "spatie/laravel-pdf": "*",
         "spatie/laravel-permission": "^6.9",
         "stechstudio/filament-impersonate": "^3.14",
         "tomatophp/filament-icons": "*",
