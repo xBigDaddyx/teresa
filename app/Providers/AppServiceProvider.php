@@ -10,6 +10,7 @@ use Illuminate\Support\Facades\Storage;
 use Laravel\Pulse\Facades\Pulse;
 use ChrisReedIO\Socialment\Models\ConnectedAccount;
 use Illuminate\Support\Facades\Log;
+use Illuminate\Database\Eloquent\Model;
 
 class AppServiceProvider extends ServiceProvider
 {
@@ -26,6 +27,10 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot(): void
     {
+        Model::preventLazyLoading(! app()->isProduction());
+        Model::preventSilentlyDiscardingAttributes();
+        Model::preventAccessingMissingAttributes();
+
         Resource::scopeToTenant(false);
         Pulse::user(fn($user) => [
             'name' => $user->name,
@@ -37,24 +42,24 @@ class AppServiceProvider extends ServiceProvider
             \SocialiteProviders\Manager\SocialiteWasCalled::class,
 
             \SocialiteProviders\Azure\AzureExtendSocialite::class . '@handle',
-            \SocialiteProviders\Google\GoogleExtendSocialite::class. '@handle',
+            \SocialiteProviders\Google\GoogleExtendSocialite::class . '@handle',
         );
-         // Post Login Hook
-    Socialment::preLogin(function (ConnectedAccount $connectedAccount) {
-        // Handle custom pre login logic here.
-    });
+        // // Post Login Hook
+        // Socialment::preLogin(function (ConnectedAccount $connectedAccount) {
+        //     // Handle custom pre login logic here.
+        // });
 
-    // Multiple hooks can be added
-    Socialment::preLogin(function (ConnectedAccount $connectedAccount) {
-        // Handle additional custom pre login logic here if you need.
-    });
+        // // Multiple hooks can be added
+        // Socialment::preLogin(function (ConnectedAccount $connectedAccount) {
+        //     // Handle additional custom pre login logic here if you need.
+        // });
 
-    // Post Login Hook
-    Socialment::postLogin(function (ConnectedAccount $connectedAccount) {
-        // Handle custom post login logic here.
-        Log::info('User logged in with ' . $connectedAccount->provider . ' account', [
-            'connectedAccount' => $connectedAccount,
-        ]);
-    });
+        // Post Login Hook
+        // Socialment::postLogin(function (ConnectedAccount $connectedAccount) {
+        //     // Handle custom post login logic here.
+        //     Log::info('User logged in with ' . $connectedAccount->provider . ' account', [
+        //         'connectedAccount' => $connectedAccount,
+        //     ]);
+        // });
     }
 }

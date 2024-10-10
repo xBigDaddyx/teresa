@@ -22,8 +22,10 @@
         "dotswan/filament-laravel-pulse": "^1.1",
         "dotswan/filament-map-picker": "*",
         "eightynine/filament-advanced-widgets": "^3.0",
+        "eightynine/filament-excel-import": "3.1.5",
         "eliseekn/laravel-metrics": "^3.1",
         "filament/filament": "^3.2",
+        "flowframe/laravel-trend": "*",
         "hosmelq/laravel-pulse-schedule": "^0.2.2",
         "jantinnerezo/livewire-alert": "^3.0",
         "joaopaulolndev/filament-edit-profile": "^1.0",
@@ -54,7 +56,6 @@
     },
     "require-dev": {
         "fakerphp/faker": "^1.23",
-        "flowframe/laravel-trend": "^0.2.0",
         "jeroen-g/laravel-packager": "^2.10",
         "laravel/breeze": "^2.1",
         "laravel/pint": "^1.13",

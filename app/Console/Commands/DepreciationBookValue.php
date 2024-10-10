@@ -19,13 +19,12 @@ class DepreciationBookValue extends Command implements PromptsForMissingInput
      *
      * @var string
      */
-    protected $signature = 'falcon:book-value {asset_id} {method_id}';
+    protected $signature = 'falcon:book-value';
 
     protected function promptForMissingArgumentsUsing(): array
     {
         return [
-            'asset_id' => 'Asset ID ?',
-            'method_id' => 'Method ID ?',
+            //
         ];
     }
 
@@ -41,8 +40,9 @@ class DepreciationBookValue extends Command implements PromptsForMissingInput
      */
     public function handle()
     {
-        $asset = Asset::findOrFail($this->argument('asset_id'));
-        if ($this->argument('method_id') ===  '9d2368dc-010f-4d66-a3ac-c81df52fae18') {
+        $assets = Asset::all();
+        foreach ($assets as $asset) {
+            // if ($this->argument('method_id') ===  '9d2368dc-010f-4d66-a3ac-c81df52fae18') {
 
             $method = Method::findOrFail($asset->methods()->first()->uuid);
             $formula = $method->formula;
@@ -52,21 +52,22 @@ class DepreciationBookValue extends Command implements PromptsForMissingInput
             $salvage_value = 0;
             $estimate_age = $age->estimate_age;
             eval($formula);
+            // }
+            $period = Carbon::parse($asset->purchased_at);
+            $last_value = BookValue::select('book_value', 'period')->where('depreciation_id', $asset->uuid)->latest()->first();
+            if (!empty($last_value)) {
+                $last_value = $last_value->book_value;
+                $period = Carbon::parse($last_value)->addYear(1);
+            } else {
+                $last_value = $asset->purchased_price;
+                $period = $period->copy()->endOfYear();
+            }
+            BookValue::create([
+                'value' => $value,
+                'book_value' => $last_value - $value,
+                'period' => $period,
+                'depreciation_id' => $asset->uuid,
+            ]);
         }
-        $period = Carbon::parse($asset->purchased_at);
-        $last_value = BookValue::select('book_value', 'period')->where('depreciation_id', $asset->uuid)->latest()->first();
-        if (!empty($last_value)) {
-            $last_value = $last_value->book_value;
-            $period = Carbon::parse($last_value)->addYear(1);
-        } else {
-            $last_value = $asset->purchased_price;
-            $period = $period->copy()->endOfYear();
-        }
-        BookValue::create([
-            'value' => $value,
-            'book_value' => $last_value - $value,
-            'period' => $period,
-            'depreciation_id' => $this->argument('asset_id'),
-        ]);
     }
 }

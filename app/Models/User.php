@@ -9,11 +9,10 @@ use Illuminate\Database\Eloquent\Relations\BelongsToMany;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 use Xbigdaddyx\Fuse\Domain\User\Models\User as FuseUser;
+
 class User extends FuseUser
 {
     use HasFactory, Notifiable;
-
-
 
     /**
      * The attributes that should be hidden for serialization.
@@ -37,7 +36,4 @@ class User extends FuseUser
             'password' => 'hashed',
         ];
     }
-
-
-
 }
