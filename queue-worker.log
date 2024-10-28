@@ -87454,3 +87454,5 @@
   3   /home/xbigdaddyx/projects/teresa/packages/xbigdaddyx/falcon/src/FalconServiceProvider.php:58
       Spatie\LaravelPackageTools\Package::hasInstallCommand()
 
+  2024-10-22 11:46:46 Xbigdaddyx\Fuse\Domain\User\Events\UserRegisteredEvent  RUNNING
+  2024-10-22 11:46:47 Xbigdaddyx\Fuse\Domain\User\Events\UserRegisteredEvent  252.86ms DONE

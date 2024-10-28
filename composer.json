@@ -35,6 +35,7 @@
         "livewire/livewire": "^3.4",
         "livewire/volt": "^1.0",
         "masmerise/livewire-toaster": "^2.3",
+        "novadaemon/filament-combobox": "*",
         "owenvoke/blade-fontawesome": "*",
         "riodwanto/filament-ace-editor": "*",
         "rmsramos/activitylog": "^1.0",
@@ -50,6 +51,7 @@
         "wildside/userstamps": "^2.4",
         "wireui/wireui": "^2.1",
         "xbigdaddyx/beverly": "*",
+        "xbigdaddyx/deery": "*",
         "xbigdaddyx/falcon": "*",
         "xbigdaddyx/fuse": "dev-master",
         "xbigdaddyx/simple-qrcode": "*"
@@ -116,6 +118,13 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "repositories": {
+        "xbigdaddyx/deery": {
+            "type": "path",
+            "url": "/home/xbigdaddyx/projects/teresa/packages/xbigdaddyx/deery",
+            "options": {
+                "symlink": true
+            }
+        },
         "xbigdaddyx/beverly-mix": {
             "type": "path",
             "url": "/home/xbigdaddyx/projects/teresa/packages/xbigdaddyx/beverly-mix",

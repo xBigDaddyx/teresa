@@ -32,7 +32,8 @@
                                  role="button" data-bs-toggle="dropdown" aria-expanded="false"></i>
                              <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                  <li><a target="_blank" rel="noopener noreferrer"
-                                         href="{{ route('filament.fuse.home') }}"><img style="width: 16px;height:16px;"
+                                         href="{{ route('filament.fuse.tenant') }}"><img
+                                             style="width: 16px;height:16px;"
                                              src="{{ asset('storage/images/logo/teresa_fuse_logo.png') }}">Fuse</a></li>
                                  <li><a target="_blank" rel="noopener noreferrer"
                                          href="{{ route('filament.beverly.tenant') }}"><img

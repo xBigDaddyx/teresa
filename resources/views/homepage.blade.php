@@ -90,34 +90,13 @@
                 </div>
                 <div class="col-xl-5 col-lg-6 offset-lg-1"
                     data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay":0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                    <span
-                        class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex"><i
-                            class="bi bi-award fs-16 me-5px"></i>Creative approach</span>
+
                     <h3 class="text-dark-gray fs-50 fw-700 ls-minus-2px">Powerful agency for corporate business.</h3>
                     <p class="mb-40px sm-mb-25px">We strive to develop real-world application solutions that are ideal
                         for
                         small to large projects with bespoke project requirements. We create compelling web designs,
                         which are the right-fit for your target groups and also deliver optimized.</p>
-                    <div class="progress-bar-style-02">
-                        <!-- start progress bar item -->
-                        <div class="progress mb-15px border-radius-50px fw-700 fs-11 lh-11 text-white bg-white">
-                            <div class="progress-bar bg-gradient-flamingo-red-transparent m-0" role="progressbar"
-                                aria-valuenow="98" aria-valuemin="0" aria-valuemax="100" aria-label="business">
-                                <span class="progress-bar-percent text-flamingo">98%</span>
-                            </div>
-                            <div class="progress-bar-title text-uppercase">business growth</div>
-                        </div>
-                        <!-- end progress bar item -->
-                        <!-- start progress bar item -->
-                        <div class="progress border-radius-50px fw-700 fs-11 lh-11 text-white bg-white">
-                            <div class="progress-bar bg-gradient-base-color-transparent m-0" role="progressbar"
-                                aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" aria-label="technology">
-                                <span class="progress-bar-percent text-base-color">85%</span>
-                            </div>
-                            <div class="progress-bar-title text-uppercase">new technology</div>
-                        </div>
-                        <!-- end progress bar item -->
-                    </div>
+
                 </div>
             </div>
             <div class="row row-cols-1 row-cols-lg-5 row-cols-md-3 row-cols-sm-2 clients-style-06 justify-content-center ps-3 pe-3 xs-mt-40px"
@@ -248,7 +227,7 @@
                                         </div>
                                         <div class="bg-white">
                                             <div class="ps-65px pe-65px pt-30px pb-30px text-center">
-                                                <a href="demo-it-business-services-details.html"
+                                                <a href="#"
                                                     class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">IT Asset
                                                     Management</a>
                                                 <p> comprehensive software solution designed to help organizations
@@ -257,7 +236,7 @@
                                             </div>
                                             <div
                                                 class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                                <a href="demo-it-business-services-details.html"
+                                                <a href="{{ route('filament.falcon.tenant') }}"
                                                     class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
                                                     <span>
                                                         <span class="btn-text">Explore Falcon</span>
@@ -279,7 +258,7 @@
                                     <div
                                         class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
                                         <div class="position-relative">
-                                            <a href="demo-it-business-services-details.html"><img
+                                            <a href="#"><img
                                                     src="{{ asset('storage/images/fuse_600x440_01.png') }}"
                                                     alt=""></a>
                                             <a href="#"
@@ -288,16 +267,16 @@
                                         <div class="bg-white">
                                             <div class="ps-65px pe-65px pt-30px pb-30px text-center">
                                                 <a href="demo-it-business-services-details.html"
-                                                    class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">System
-                                                    Monitoring and User Management
+                                                    class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">User
+                                                    Management
                                                 </a>
                                                 <p>robust solution designed to ensure optimal performance, security, and
-                                                    efficient management of IT infrastructure and user access within an
+                                                    efficient management of IT and user access within an
                                                     organization.</p>
                                             </div>
                                             <div
                                                 class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                                <a href="demo-it-business-services-details.html"
+                                                <a href="{{ route('filament.fuse.tenant') }}"
                                                     class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
                                                     <span>
                                                         <span class="btn-text">Explore Fuse</span>
@@ -319,7 +298,7 @@
                                     <div
                                         class="services-box-style-03 last-paragraph-no-margin border-radius-4px overflow-hidden">
                                         <div class="position-relative">
-                                            <a href="demo-it-business-services-details.html"><img
+                                            <a href="#"><img
                                                     src="{{ asset('storage/images/beverly_600x440_01.png') }}"
                                                     alt=""></a>
                                             <a href="#"
@@ -335,7 +314,7 @@
                                             </div>
                                             <div
                                                 class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                                <a href="demo-it-business-services-details.html"
+                                                <a href="{{ route('filament.beverly.tenant') }}"
                                                     class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
                                                     <span>
                                                         <span class="btn-text">Explore Beverly</span>
