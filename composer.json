@@ -50,12 +50,7 @@
         "stechstudio/filament-impersonate": "^3.14",
         "tomatophp/filament-icons": "*",
         "wildside/userstamps": "^2.4",
-        "wireui/wireui": "^2.1",
-        "xbigdaddyx/beverly": "*",
-        "xbigdaddyx/deery": "*",
-        "xbigdaddyx/falcon": "*",
-        "xbigdaddyx/fuse": "*",
-        "xbigdaddyx/simple-qrcode": "*"
+        "wireui/wireui": "^2.1"
     },
     "require-dev": {
         "fakerphp/faker": "^1.23",
@@ -117,5 +112,5 @@
         }
     },
     "minimum-stability": "dev",
-    "prefer-stable": true
+    "prefer-stable": true,
 }
