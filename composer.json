@@ -54,7 +54,7 @@
         "xbigdaddyx/beverly": "*",
         "xbigdaddyx/deery": "*",
         "xbigdaddyx/falcon": "*",
-        "xbigdaddyx/fuse": "dev-master",
+        "xbigdaddyx/fuse": "*",
         "xbigdaddyx/simple-qrcode": "*"
     },
     "require-dev": {
