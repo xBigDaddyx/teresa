@@ -11,14 +11,12 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('beverly_ratio_tags', function (Blueprint $table) {
+        Schema::create('falcon_ages', function (Blueprint $table) {
             $table->uuid();
-            $table->unsignedBigInteger('carton_box_attribute_id');
-            $table->foreign('carton_box_attribute_id')->references('id')->on('carton_box_attributes');
-            $table->string('tag');
-
-            $table->foreignUuid('polybag_id')->on('beverly_ratio_polybags');
+            $table->integer('estimate_age');
             $table->softDeletes();
+            $table->uuid('category_id')->nullable();
+            $table->uuid('sub_category_id')->nullable();
             $table->unsignedBigInteger('deleted_by')->nullable();
             $table->foreign('deleted_by')->references('id')->on('users');
             $table->unsignedBigInteger('created_by')->nullable();
@@ -34,6 +32,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('beverly_ratio_tags');
+        Schema::dropIfExists('falcon_ages');
     }
 };

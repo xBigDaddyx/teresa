@@ -87456,3 +87456,145 @@
 
   2024-10-22 11:46:46 Xbigdaddyx\Fuse\Domain\User\Events\UserRegisteredEvent  RUNNING
   2024-10-22 11:46:47 Xbigdaddyx\Fuse\Domain\User\Events\UserRegisteredEvent  252.86ms DONE
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[42P01]: Undefined table: 7 ERROR:  relation "cache" does not exist
+LINE 1: select * from "cache" where "key" in ($1)
+                      ^ (Connection: pgsql, SQL: select * from "cache" where "key" in (illuminate:queue:restart))
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Database/Connection.php:825
+    821▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    822▕                 );
+    823▕             }
+    824▕ 
+  ➜ 825▕             throw new QueryException(
+    826▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    827▕             );
+    828▕         }
+    829▕     }
+
+      [2m+31 vendor frames [22m
+
+  32  /home/xbigdaddyx/projects/teresa/artisan:13
+      Illuminate\Foundation\Application::handleCommand()
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[42P01]: Undefined table: 7 ERROR:  relation "cache" does not exist
+LINE 1: select * from "cache" where "key" in ($1)
+                      ^ (Connection: pgsql, SQL: select * from "cache" where "key" in (illuminate:queue:restart))
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Database/Connection.php:825
+    821▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    822▕                 );
+    823▕             }
+    824▕ 
+  ➜ 825▕             throw new QueryException(
+    826▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    827▕             );
+    828▕         }
+    829▕     }
+
+      [2m+31 vendor frames [22m
+
+  32  /home/xbigdaddyx/projects/teresa/artisan:13
+      Illuminate\Foundation\Application::handleCommand()
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[42P01]: Undefined table: 7 ERROR:  relation "cache" does not exist
+LINE 1: select * from "cache" where "key" in ($1)
+                      ^ (Connection: pgsql, SQL: select * from "cache" where "key" in (illuminate:queue:restart))
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Database/Connection.php:825
+    821▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    822▕                 );
+    823▕             }
+    824▕ 
+  ➜ 825▕             throw new QueryException(
+    826▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    827▕             );
+    828▕         }
+    829▕     }
+
+      [2m+31 vendor frames [22m
+
+  32  /home/xbigdaddyx/projects/teresa/artisan:13
+      Illuminate\Foundation\Application::handleCommand()
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[42P01]: Undefined table: 7 ERROR:  relation "cache" does not exist
+LINE 1: select * from "cache" where "key" in ($1)
+                      ^ (Connection: pgsql, SQL: select * from "cache" where "key" in (illuminate:queue:restart))
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Database/Connection.php:825
+    821▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    822▕                 );
+    823▕             }
+    824▕ 
+  ➜ 825▕             throw new QueryException(
+    826▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    827▕             );
+    828▕         }
+    829▕     }
+
+      [2m+31 vendor frames [22m
+
+  32  /home/xbigdaddyx/projects/teresa/artisan:13
+      Illuminate\Foundation\Application::handleCommand()
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[42P01]: Undefined table: 7 ERROR:  relation "cache" does not exist
+LINE 1: select * from "cache" where "key" in ($1)
+                      ^ (Connection: pgsql, SQL: select * from "cache" where "key" in (illuminate:queue:restart))
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Database/Connection.php:825
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[42P01]: Undefined table: 7 ERROR:  relation "cache" does not exist
+LINE 1: select * from "cache" where "key" in ($1)
+                      ^ (Connection: pgsql, SQL: select * from "cache" where "key" in (illuminate:queue:restart))
+
+  at /home/xbigdaddyx/projects/teresa/vendor/laravel/framework/src/Illuminate/Database/Connection.php:825
+    821▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    822▕                 );
+    823▕             }
+    824▕ 
+  ➜ 825▕             throw new QueryException(
+    826▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    827▕             );
+    828▕         }
+    829▕     }
+
+      [2m+31 vendor frames [22m
+
+  32  /home/xbigdaddyx/projects/teresa/artisan:13
+      Illuminate\Foundation\Application::handleCommand()
+
+    821▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    822▕                 );
+    823▕             }
+    824▕ 
+  ➜ 825▕             throw new QueryException(
+    826▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    827▕             );
+    828▕         }
+    829▕     }
+
+      [2m+31 vendor frames [22m
+
+  32  /home/xbigdaddyx/projects/teresa/artisan:13
+      Illuminate\Foundation\Application::handleCommand()
+
+  2024-11-26 10:42:53 Filament\Notifications\Auth\ResetPassword ...... RUNNING
+  2024-11-26 10:42:55 Filament\Notifications\Auth\ResetPassword ...... 1s DONE
+  2024-11-26 10:43:55 Filament\Notifications\Auth\ResetPassword ...... RUNNING
+  2024-11-26 10:43:55 Filament\Notifications\Auth\ResetPassword . 61.51ms DONE

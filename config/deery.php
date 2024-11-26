@@ -2,5 +2,5 @@
 
 // config for Xbigdaddyx/Deery
 return [
-    'has_tenant' => false,
+    'has_tenant' => true,
 ];

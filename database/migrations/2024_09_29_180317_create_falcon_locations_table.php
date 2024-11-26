@@ -11,16 +11,12 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('falcon_devices', function (Blueprint $table) {
-            $table->id();
+        Schema::create('falcon_locations', function (Blueprint $table) {
+            $table->uuid();
             $table->string('name');
-            $table->unsignedBigInteger('category_id')->nullable();
-            $table->foreign('category_id')->references('id')->on('falcon_device_categories');
-            $table->unsignedBigInteger('brand_id')->nullable();
-            $table->foreign('brand_id')->references('id')->on('falcon_brands');
-            $table->string('type');
-            $table->string('picture')->nullable();
-            $table->string('serial_number');
+            $table->text('description')->nullable();
+            $table->double('latitude')->nullable();
+            $table->double('longitude')->nullable();
             $table->softDeletes();
             $table->unsignedBigInteger('deleted_by')->nullable();
             $table->foreign('deleted_by')->references('id')->on('users');
@@ -28,8 +24,10 @@ return new class extends Migration
             $table->foreign('created_by')->references('id')->on('users');
             $table->unsignedBigInteger('updated_by')->nullable();
             $table->foreign('updated_by')->references('id')->on('users');
-            $table->unsignedBigInteger('company_id');
-            $table->foreign('company_id')->references('id')->on('companies');
+            if (config('falcon.has_tenant')) {
+                $table->unsignedBigInteger('company_id')->nullable();
+                $table->foreign('company_id')->references('id')->on('companies');
+            }
             $table->timestamps();
         });
     }
@@ -39,6 +37,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('falcon_devices');
+        Schema::dropIfExists('falcon_locations');
     }
 };

@@ -11,20 +11,27 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('beverly_ratio_tags', function (Blueprint $table) {
+        Schema::create('falcon_assets', function (Blueprint $table) {
             $table->uuid();
-            $table->unsignedBigInteger('carton_box_attribute_id');
-            $table->foreign('carton_box_attribute_id')->references('id')->on('carton_box_attributes');
-            $table->string('tag');
-
-            $table->foreignUuid('polybag_id')->on('beverly_ratio_polybags');
+            $table->string('asset_code');
+            $table->json('attachment')->nullable();
+            $table->decimal('purchased_price');
+            $table->timestamp('purchased_at');
+            $table->string('purchase_order')->nullable();
             $table->softDeletes();
+            $table->uuid('category_id')->nullable();
+            $table->uuid('sub_category_id')->nullable();
+            $table->uuid('location_id')->nullable();
             $table->unsignedBigInteger('deleted_by')->nullable();
             $table->foreign('deleted_by')->references('id')->on('users');
             $table->unsignedBigInteger('created_by')->nullable();
             $table->foreign('created_by')->references('id')->on('users');
             $table->unsignedBigInteger('updated_by')->nullable();
             $table->foreign('updated_by')->references('id')->on('users');
+            if (config('falcon.has_tenant')) {
+                $table->unsignedBigInteger('company_id')->nullable();
+                $table->foreign('company_id')->references('id')->on('companies');
+            }
             $table->timestamps();
         });
     }
@@ -34,6 +41,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('beverly_ratio_tags');
+        Schema::dropIfExists('falcon_assets');
     }
 };

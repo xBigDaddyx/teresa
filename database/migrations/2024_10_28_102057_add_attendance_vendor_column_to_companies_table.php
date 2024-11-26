@@ -1,0 +1,36 @@
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::table('companies', function (Blueprint $table) {
+            $table->string('attendance_vendor')->nullable();
+            $table->string('attendance_table_name')->nullable();
+            $table->string('attendance_connection')->nullable();
+            $table->string('transaction_table_name')->nullable();
+            $table->string('transaction_connection')->nullable();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::table('companies', function (Blueprint $table) {
+            $table->dropColumn('attendance_vendor');
+            $table->dropColumn('attendance_table_name');
+            $table->dropColumn('attendance_connection');
+            $table->dropColumn('transaction_table_name');
+            $table->dropColumn('transaction_connection');
+        });
+    }
+};

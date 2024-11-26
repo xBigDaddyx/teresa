@@ -9,10 +9,11 @@ use Illuminate\Database\Eloquent\Relations\BelongsToMany;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 use Xbigdaddyx\Fuse\Domain\User\Models\User as FuseUser;
+use Laravel\Sanctum\HasApiTokens;
 
 class User extends FuseUser
 {
-    use HasFactory, Notifiable;
+    use HasFactory, Notifiable, HasApiTokens;
 
     /**
      * The attributes that should be hidden for serialization.

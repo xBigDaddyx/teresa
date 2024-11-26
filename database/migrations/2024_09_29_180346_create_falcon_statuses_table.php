@@ -11,8 +11,8 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('falcon_device_categories', function (Blueprint $table) {
-            $table->id();
+        Schema::create('falcon_statuses', function (Blueprint $table) {
+            $table->uuid();
             $table->string('name');
             $table->text('description')->nullable();
             $table->softDeletes();
@@ -31,6 +31,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('falcon_device_categories');
+        Schema::dropIfExists('falcon_statuses');
     }
 };

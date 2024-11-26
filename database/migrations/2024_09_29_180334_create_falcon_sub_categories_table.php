@@ -11,12 +11,12 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('falcon_asset_categories', function (Blueprint $table) {
-            $table->id();
+        Schema::create('falcon_sub_categories', function (Blueprint $table) {
+            $table->uuid();
             $table->string('name');
-            $table->integer('estimate_usage')->default(0);
             $table->text('description')->nullable();
             $table->softDeletes();
+            $table->uuid('category_id')->nullable();
             $table->unsignedBigInteger('deleted_by')->nullable();
             $table->foreign('deleted_by')->references('id')->on('users');
             $table->unsignedBigInteger('created_by')->nullable();
@@ -32,6 +32,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('falcon_asset_categories');
+        Schema::dropIfExists('falcon_sub_categories');
     }
 };

@@ -16,8 +16,7 @@ return new class extends Migration
             $table->unsignedBigInteger('carton_box_attribute_id');
             $table->foreign('carton_box_attribute_id')->references('id')->on('carton_box_attributes');
             $table->string('tag');
-            $table->unsignedBigInteger('polybag_id')->nullable();
-            $table->foreign('polybag_id')->references('id')->on('polybags');
+            $table->foreignUuid('polybag_id')->on('beverly_mix_polybags');
             $table->softDeletes();
             $table->unsignedBigInteger('deleted_by')->nullable();
             $table->foreign('deleted_by')->references('id')->on('users');
